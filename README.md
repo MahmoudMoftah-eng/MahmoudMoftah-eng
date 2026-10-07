@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1F6FEB&height=180&section=header&text=Mahmoud%20Moftah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Mahmoud Moftah profile banner">
+</p>
+
 <table>
   <tr>
     <td width="62%" valign="top">
