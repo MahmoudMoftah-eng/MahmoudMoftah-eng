@@ -27,12 +27,10 @@
 
 ## Engineering focus
 
-```text
-> embedded software        STM32 · C · Python
-> flight systems           ArduPilot · MAVLink · Guidance & Control
-> autonomous robotics      ROS 2 · Gazebo · Simulation
-> industrial automation    Siemens PLC · HMI · Factory I/O
-```
+- **Embedded software:** STM32 · C · Python
+- **Flight systems:** ArduPilot · MAVLink · Guidance & Control
+- **Autonomous robotics:** ROS 2 · Gazebo · Simulation
+- **Industrial automation:** Siemens PLC · HMI · Factory I/O
 
 ## Selected case studies
 
@@ -74,3 +72,10 @@
     </td>
   </tr>
 </table>
+
+## GitHub activity
+
+[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=MahmoudMoftah-eng&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true)](https://github.com/MahmoudMoftah-eng)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMoftah-eng&layout=compact&hide_border=true&theme=transparent&langs_count=6)](https://github.com/MahmoudMoftah-eng)
+
+![GitHub contribution streak](https://streak-stats.demolab.com?user=MahmoudMoftah-eng&theme=transparent&hide_border=true)
